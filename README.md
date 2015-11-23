@@ -1,5 +1,10 @@
 # ES6 Learning
 
+ES6 learnings committed for Quick reference.
+
+Intro
+
 ECMAScript - codenamed "Harmony" or "ES.next"
 
-ES6 learnings committed for Quick reference.
+Step 1:
+Re-Introducing variables
